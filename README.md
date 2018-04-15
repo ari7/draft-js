@@ -39,6 +39,11 @@ with [immutable-js](https://facebook.github.io/immutable-js/), offering
 an API with functional state updates and aggressively leveraging data persistence
 for scalable memory usage.
 
+1. numbered list
+2. numbered list item 2
+    - nested ordered list
+    - nested ordered list item 2
+
 [Learn how to use Draft.js in your own project.](http://draftjs.org/docs/overview.html)
 
 ## API Notice
